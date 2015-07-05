@@ -1,0 +1,27 @@
+5.0-1 - 2004/08/15
+------------------
+CHANGES:
+- Updated to PHPlot 5.0 RC1. (wuh)
+
+
+
+4.4.6-2 - 2003/06/15
+--------------------
+NEW FEATURES:
+- Added Phplot Hui widget. (wuh)
+- Added phplot_regression() function. (wuh)
+
+CHANGES:
+- Better default colors. (wuh)
+- Better pie chart shape. (wuh)
+
+FIXES:
+- Fixed "Wrong Height for Legend Box" bug. (wuh, Jean-François Gagnon)
+- Fixed bug that when using hex colors they are not converted. (wuh)
+- Fixed "Pie Charts with Total=0 reports division by zero" bug. (wuh)
+
+
+
+4.4.6-1 - 2003/04/20
+--------------------
+First release as Ampoliros module.

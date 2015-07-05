@@ -1,0 +1,39 @@
+# Module short name
+MODULEIDNAME       = phplot
+
+# Module version number
+MODULEVERSION      = 5.0-1
+
+# Module release date
+MODULEDATE         = 2004/08/15
+
+# Module long description
+MODULEDESCRIPTION  = A class for creating scientific and business charts.
+
+# Module dependencies
+MODULEDEPENDENCIES = php[4.3.0]
+
+# Module suggestions
+MODULESUGGESTIONS  =
+
+MODULE_AUTHOR        = Afan Ottenheimer
+
+MODULE_AUTHOR_EMAIL  = afan@jeo.net
+
+MODULE_AUTHOR_SITE   = http://www.phplot.com/
+
+MODULE_SUPPORT_EMAIL = supporto@solarix.it
+
+MODULE_BUGS_EMAIL    = supporto@solarix.it
+
+MODULE_COPYRIGHT     = Copyright (C) 1998,1999,2000,2001 Afan Ottenheimer, afan@jeo.net
+
+MODULE_LICENSE       = GPL / PHP
+
+MODULE_LICENSE_FILE  = LICENSE
+
+MODULE_MAINTAINER    = Solarix
+
+MODULE_MAINTAINER_EMAIL = supporto@solarix.it
+
+MODULE_CATEGORY      = libraries

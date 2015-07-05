@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<structure>
+
+    <library
+        name="phplot"
+        file="phplot.library"/>
+    <library
+        name="phplotrgb"
+        file="phplotrgb.library"/>
+
+    <extras
+        name="benjamingothic.ttf"
+        file="benjamingothic.ttf"/>
+
+    <huielement
+        name="phplot"
+        file="phplot.hui"/>
+
+    <cgi
+        name="phplot_draw.php"
+        file="phplot_draw.php"/>
+
+    <tempdir
+        name="phplot"
+        file="phplot"/>
+
+    <!--adminpage
+        name="phplottest"
+        file="phplottest.php"
+        themeicon="kate"
+        category="tools"
+        catalog="phplot"/-->
+
+</structure>
